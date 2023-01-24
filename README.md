@@ -1,2 +1,2 @@
-# Car-Racing-Game
+# Cars Race
 A learning project on Unity
