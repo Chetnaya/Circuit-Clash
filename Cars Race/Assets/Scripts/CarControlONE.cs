@@ -7,18 +7,9 @@ public class CarControlONE : MonoBehaviour
     public float speed = 20f;
     public float turnSpeed=10f;
     
-    // public float increment;
-    //public GameObject rb;
-    //rigidbody rb;
-    // rb = getcomponent<rigidbody>();
-    // private Vector3 targetPos;
 
     public float horizontalInput;
     public float forwardInput;
-
-
-    // Vector3 rotationRight = new Vector3(0, 30, 0);
-    // Vector3 rotationLeft = new Vector3(0, -30, 0);
 
     void Update()
     {
