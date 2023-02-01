@@ -1,2 +1,2 @@
-# Cars Race
+# Circuit Clash
 A learning project on Unity
