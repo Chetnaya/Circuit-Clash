@@ -10,6 +10,13 @@ public class MainMenu : MonoBehaviour
         //Loads the Scene 01 on clicking "Pkay in the menu"
         SceneManager.LoadScene("Scene01");
     }
+
+    public void About()
+    {
+        //Loads the Scene 01 on clicking "Pkay in the menu"
+        SceneManager.LoadScene("About");
+    }
+
     
     public void QuitGame()
     {
